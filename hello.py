@@ -1,6 +1,7 @@
 #Hello World!
 #Initial test
 print("Hello World")
+print("change from droid")
 
 import kivy
 kivy.require('2.1.0') # replace with your current kivy version !
